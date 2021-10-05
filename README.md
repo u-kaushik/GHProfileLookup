@@ -1,8 +1,10 @@
 # GH Profile Lookup
 A bootstrap designed github profile search app using async &amp; await &amp; classes with the constructor method. 
 
-**Deployment**
 
+
+**Deployment**
+https://ghprofilelookup.netlify.app/
 
 **Lessons Learned**
 - First time using Bootstrap & Bootswatch and popper libraries to style HTML using classes.
