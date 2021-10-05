@@ -1,4 +1,4 @@
-# GithubProfileLookup
+# GH Profile Lookup
 A bootstrap designed github profile search app using async &amp; await &amp; classes with the constructor method. 
 
 **Deployment**
